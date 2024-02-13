@@ -91,366 +91,6 @@
     <title lang="en">Channel Information Not Available</title>
     <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
   </programme>
-    <programme start="20240212000000 +0000" stop="20240212010000 +0000" channel="TV3">
-    <title lang="en">Tentang Dhia</title>
-    <desc lang="en">Raffi bertemu Dhia dan Dhia kata dia tidak mencintai Raffi dan mahu berkawan sahaja . Raffi merajuk dan melanjutkan pelajaran di luar negara. Selepas tamat pengajian Raffi kata mahu berkahwin dengan Dhia.</desc>
-    <credits>
-      <actor>Nora Danish Ady Putra Tasha Shila</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212010000 +0000" stop="20240212013000 +0000" channel="TV3">
-    <title lang="en">Buletin Pagi</title>
-    <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212013000 +0000" stop="20240212023000 +0000" channel="TV3">
-    <title lang="en">Malaysia Hari Ini</title>
-    <desc lang="en">Dapatkan bahan-bahan berita terbaru di dalam negara dan juga antarabangsa termasuklah beberapa segmen menarik bersama penyampai MHI.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Business</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212023000 +0000" stop="20240212023200 +0000" channel="TV3">
-    <title lang="en">Berita Terkini</title>
-    <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212023200 +0000" stop="20240212030000 +0000" channel="TV3">
-    <title lang="en">Wow Shop</title>
-    <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212030000 +0000" stop="20240212033000 +0000" channel="TV3">
-    <title lang="en">Zig &amp; Sharko</title>
-    <desc lang="en">MARINA'S NEW FRIEND. Marina tertekan dan bosan. Dia sangat sengsara kerana Zig telah hilang selera terhadapnya. Sharko mencadangkan perjanjian dengan Zig cara untuk mengembalikan senyuman di wajah Marina.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212033000 +0000" stop="20240212033200 +0000" channel="TV3">
-    <title lang="en">Berita Terkini</title>
-    <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212033200 +0000" stop="20240212040000 +0000" channel="TV3">
-    <title lang="en">Muzik - Muzik 38</title>
-    <desc lang="en">Program carta muzik mingguan terbitan TV3 untuk lagu-lagu yang digubah oleh komposer dan penulis lirik Malaysia yang akan berpeluang dipertandingkan di pentas Anugerah Juara Lagu.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212040000 +0000" stop="20240212050000 +0000" channel="TV3">
-    <title lang="en">Wanita Hari Ini</title>
-    <desc lang="en">Program bual bicara memfokuskan isu kewanitaan, kanak-kanak dan keluarga keseluruhannya dengan menyediakan pelbagai topik menarik.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212050000 +0000" stop="20240212053000 +0000" channel="TV3">
-    <title lang="en">Wow Shop</title>
-    <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212053000 +0000" stop="20240212060000 +0000" channel="TV3">
-    <title lang="en">Buletin 130</title>
-    <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212060000 +0000" stop="20240212070000 +0000" channel="TV3">
-    <title lang="en">Kerana Dia Manusia Biasa</title>
-    <desc lang="en">Kebaikan Nurin Aira terhadap suaminya bermula setelah dia mendapat mimpi dari arwah ayahnya yang menyuruhnya berbuat baik terhadap suami walaupun sejahat mana pun layanan si suami.</desc>
-    <credits>
-      <actor>Shukri Yahaya Emma Maembong Afifah</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212070000 +0000" stop="20240212080000 +0000" channel="TV3">
-    <title lang="en">Cukup Derita Itu</title>
-    <desc lang="en">Pengorbanan Ellani berbaloi kerana dapat menggembirakan Datin Mahani. Dia turut menitiskan air mata melihat Datin Mahani menitiskan air mata. Zarul pula berjanji dengan mamanya akan membahagiakan Ellani.</desc>
-    <credits>
-      <actor>Hisyam Hamid Chacha Maembong Ruhain</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212080000 +0000" stop="20240212080200 +0000" channel="TV3">
-    <title lang="en">Berita Terkini</title>
-    <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212080200 +0000" stop="20240212090000 +0000" channel="TV3">
-    <title lang="en">Ali Baba: Dastaan-e-kabul</title>
-    <desc lang="en">Ali Baba, a young orphan from the Mamuli Gali of Kabul, faces numerous struggles and overcomes challenges as he cares for five children.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212090000 +0000" stop="20240212100000 +0000" channel="TV3">
-    <title lang="en">Great Blue Wild</title>
-    <desc lang="en">Perairan di sekitar perkampungan terpencil Cabo Pulmo, pernah digelar 'akuarium dunia' terumbu karang, hampir musnah akibat penangkapan ikan berlebihan secara melulu.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212100000 +0000" stop="20240212110000 +0000" channel="TV3">
-    <title lang="en">Honey-moon</title>
-    <desc lang="en">Rasa marah Moon terus hilang sebab dia tak sangka, Ilham jodohnya. Moon tetap pertahankan Ilham pada Maira apabila Maira menyindir Moon yang pertunangan mereka pasti dipaksa oleh keluarga Moon.</desc>
-    <credits>
-      <actor>Muhammad Amir Bin Sabaruddin (ben A</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212110000 +0000" stop="20240212120000 +0000" channel="TV3">
-    <title lang="en">Cinta Bersemi Di Wadi Safiyyah</title>
-    <desc lang="en">Dania trauma dan marah melihat Qabil. Hjh Shafiyah mahu Pn Kay datang menjenguk anaknya. Tetapi orang suruhan Tn Safuan mengekori Pn Kay.</desc>
-    <credits>
-      <actor>Rita Nadira Mohd Ritamurni Muhammad</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212120000 +0000" stop="20240212130000 +0000" channel="TV3">
-    <title lang="en">Buletin Utama</title>
-    <desc lang="en">Berita tempatan dan antarabangsa yang terkini.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212130000 +0000" stop="20240212130200 +0000" channel="TV3">
-    <title lang="en">Mbuzz</title>
-    <desc lang="en">MBUZZ is a 2-minute capsule program that features the latest entertainment and gossip news in Malaysia. MBUZZ consists of additional input to support Melodi that airs on Sundays.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212130200 +0000" stop="20240212140000 +0000" channel="TV3">
-    <title lang="en">Majalah 3</title>
-    <desc lang="en">MAJALAH 3 membawakan keunikan kisah Malaysia dari aspek kemanusian, makanan, teknologi, sukan, alam sekitar dan jatuh bangunnya sebuah negara bernama Malaysia.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212140000 +0000" stop="20240212150000 +0000" channel="TV3">
-    <title lang="en">Menanti Senja</title>
-    <desc lang="en">Syukri dilanggar kereta semasa cuba selamatkan Suhana yang sedang melintas jalan semasa balik dari sekolah tetapi tidak berapa serius.</desc>
-    <credits>
-      <actor>Johan Arrif Bin As'ari Reyshqa Aqie</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212160000 +0000" stop="20240212163000 +0000" channel="TV3">
-    <title lang="en">Nightline</title>
-    <desc lang="en">News in English including business, financial and sports.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212163000 +0000" stop="20240212173000 +0000" channel="TV3">
-    <title lang="en">Cinta Bersemi Di Wadi Safiyyah</title>
-    <desc lang="en">Dania trauma dan marah melihat Qabil. Hjh Shafiyah mahu Pn Kay datang menjenguk anaknya. Tetapi orang suruhan Tn Safuan mengekori Pn Kay. Qabil juga semakin diburu ketakutan.</desc>
-    <credits>
-      <actor>Rita Nadira Mohd Ritamurni Muhammad</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212173000 +0000" stop="20240212183000 +0000" channel="TV3">
-    <title lang="en">Menanti Senja</title>
-    <desc lang="en">Syukri dilanggar kereta semasa cuba selamatkan Suhana yang sedang melintas jalan semasa balik dari sekolah tetapi tidak berapa serius.</desc>
-    <credits>
-      <actor>Johan Arrif Bin As'ari Reyshqa Aqie</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212183000 +0000" stop="20240212193000 +0000" channel="TV3">
-    <title lang="en">Tentang Dhia</title>
-    <desc lang="en">Raffi bertemu Dhia dan Dhia kata dia tidak mencintai Raffi dan mahu berkawan sahaja . Raffi merajuk dan melanjutkan pelajaran di luar negara. Selepas tamat pengajian Raffi kata mahu berkahwin dengan Dhia.</desc>
-    <credits>
-      <actor>Nora Danish Ady Putra Tasha Shila</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212193000 +0000" stop="20240212203000 +0000" channel="TV3">
-    <title lang="en">Kerana Dia Manusia Biasa</title>
-    <desc lang="en">Kebaikan Nurin Aira terhadap suaminya bermula setelah dia mendapat mimpi dari arwah ayahnya yang menyuruhnya berbuat baik terhadap suami walaupun sejahat mana pun layanan si suami.</desc>
-    <credits>
-      <actor>Shukri Yahaya Emma Maembong Afifah</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212203000 +0000" stop="20240212210000 +0000" channel="TV3">
-    <title lang="en">Kapsul Surah</title>
-    <desc lang="en">Bacaan SURAH YAASIN serta terjemahannya.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212210000 +0000" stop="20240212213000 +0000" channel="TV3">
-    <title lang="en">Bacaan Al-Quran</title>
-    <desc lang="en">Bacaan ayat suci Al-Quran surah Al-Fatihah oleh Ustaz Ahmad Tirmizi Hj Ali and Ustaz Ahmad Tarmizi Abdul Rahman.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212213000 +0000" stop="20240212223000 +0000" channel="TV3">
-    <title lang="en">Wow Shop</title>
-    <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212223000 +0000" stop="20240212225000 +0000" channel="TV3">
-    <title lang="en">Bacaan Yasin Tanyalah Ustaz</title>
-    <desc lang="en">Bacaan surah Yasin.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212225000 +0000" stop="20240212235500 +0000" channel="TV3">
-    <title lang="en">Tanyalah Ustaz</title>
-    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212235500 +0000" stop="20240213000000 +0000" channel="TV3">
-    <title lang="en">Berita Terkini</title>
-    <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://aqfadtv.xyz/images/TV3.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
   <programme start="20240213000000 +0000" stop="20240213010000 +0000" channel="TV3">
     <title lang="en">Tentang Dhia</title>
     <desc lang="en">Raffi berubah bersikap liar dan mengadakan hubungan dengan Melly. Melly datang berjumpa Raffi dan mendesak supaya Raffi mengahwininya. Dhia sementara itu sudah bersedia untuk berkahwin dengan Azmi.</desc>
@@ -689,9 +329,9 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240213150000 +0000" stop="20240213163000 +0000" channel="TV3">
-    <title lang="en">My Lovely Boxer</title>
-    <desc lang="en">The series follows the story of a female boxing star who disappeared three years ago to live a new life and faces a new turning point in life upon meeting a cold-blooded agent.</desc>
+  <programme start="20240213160000 +0000" stop="20240213163000 +0000" channel="TV3">
+    <title lang="en">Nightline</title>
+    <desc lang="en">News in English including business, financial and sports.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
     <icon src="https://aqfadtv.xyz/images/TV3.png" />
@@ -2562,172 +2202,368 @@
       <value>U</value>
     </rating>
   </programme>
-    <programme start="20240212013000 +0000" stop="20240212023000 +0000" channel="DidikTVKPM">
+  <programme start="20240219000000 +0000" stop="20240219010000 +0000" channel="TV3">
+    <title lang="en">Tentang Dhia</title>
+    <desc lang="en">Raffi bertemu Dhia dan Dhia kata dia tidak mencintai Raffi dan mahu berkawan sahaja . Raffi merajuk dan melanjutkan pelajaran di luar negara. Selepas tamat pengajian Raffi kata mahu berkahwin dengan Dhia.</desc>
+    <credits>
+      <actor>Nora Danish Ady Putra Tasha Shila</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219010000 +0000" stop="20240219013000 +0000" channel="TV3">
+    <title lang="en">Buletin Pagi</title>
+    <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219013000 +0000" stop="20240219023000 +0000" channel="TV3">
+    <title lang="en">Malaysia Hari Ini</title>
+    <desc lang="en">Dapatkan bahan-bahan berita terbaru di dalam negara dan juga antarabangsa termasuklah beberapa segmen menarik bersama penyampai MHI.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Business</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219023000 +0000" stop="20240219023200 +0000" channel="TV3">
+    <title lang="en">Berita Terkini</title>
+    <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219023200 +0000" stop="20240219030000 +0000" channel="TV3">
     <title lang="en">Wow Shop</title>
     <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212023000 +0000" stop="20240212030000 +0000" channel="DidikTVKPM">
-    <title lang="en">Fit &amp; Fab</title>
-    <desc lang="en">Program kecergasan bersama Miely dan Ika berkongsi tips-tips dan panduan senaman khas untuk membakar lemak, meningkatkan ketahanan badan, juga senaman berunsur tarian!</desc>
+  <programme start="20240219030000 +0000" stop="20240219033000 +0000" channel="TV3">
+    <title lang="en">Zig &amp; Sharko</title>
+    <desc lang="en">THE TINY TYRANT. Bernie mereka ramuan ajaib untuk membuat dirinya menjadi terpaling kuat. Dia menggunakan kuasa ajaib tersebut ke atas Zig, Sharko dan Neptune.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212030000 +0000" stop="20240212040000 +0000" channel="DidikTVKPM">
-    <title lang="en">Menengah Rendah</title>
-    <desc lang="en">Program pendidikan maya melangkaui bilik darjah untuk semua peringkat persekolahan. Dikendalikan bersama guru-guru berpengalaman, pembelajaran kini lebih menyeronokkan bila-bila masa dan di mana jua.</desc>
+  <programme start="20240219033000 +0000" stop="20240219033200 +0000" channel="TV3">
+    <title lang="en">Berita Terkini</title>
+    <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219033200 +0000" stop="20240219040000 +0000" channel="TV3">
+    <title lang="en">Muzik - Muzik 38</title>
+    <desc lang="en">Program carta muzik mingguan terbitan TV3 untuk lagu-lagu yang digubah oleh komposer dan penulis lirik Malaysia yang akan berpeluang dipertandingkan di pentas Anugerah Juara Lagu.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212040000 +0000" stop="20240212043000 +0000" channel="DidikTVKPM">
-    <title lang="en">Tahap I</title>
-    <desc lang="en">Program pendidikan maya melangkaui bilik darjah untuk semua peringkat persekolahan. Dikendalikan bersama guru-guru berpengalaman, pembelajaran kini lebih menyeronokkan bila-bila masa dan di mana jua.</desc>
+  <programme start="20240219040000 +0000" stop="20240219050000 +0000" channel="TV3">
+    <title lang="en">Wanita Hari Ini</title>
+    <desc lang="en">Program bual bicara memfokuskan isu kewanitaan, kanak-kanak dan keluarga keseluruhannya dengan menyediakan pelbagai topik menarik.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212043000 +0000" stop="20240212050000 +0000" channel="DidikTVKPM">
-    <title lang="en">Prasekolah</title>
-    <desc lang="en">Program pendidikan maya melangkaui bilik darjah untuk semua peringkat persekolahan. Dikendalikan bersama guru-guru berpengalaman, pembelajaran kini lebih menyeronokkan bila-bila masa dan di mana jua.</desc>
+  <programme start="20240219050000 +0000" stop="20240219053000 +0000" channel="TV3">
+    <title lang="en">Wow Shop</title>
+    <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212050000 +0000" stop="20240212053000 +0000" channel="DidikTVKPM">
-    <title lang="en">Cergas</title>
-    <desc lang="en">Program yang mengetengahkan senaman kecergasan, regangan dan pemulihan menggunakan alatan kecergasan. Ia diketuai oleh jurulatih dari SSM yang telah dipilih mengikut kriteria daripada KPM.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212053000 +0000" stop="20240212060000 +0000" channel="DidikTVKPM">
+  <programme start="20240219053000 +0000" stop="20240219060000 +0000" channel="TV3">
     <title lang="en">Buletin 130</title>
     <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212060000 +0000" stop="20240212070000 +0000" channel="DidikTVKPM">
+  <programme start="20240219060000 +0000" stop="20240219070000 +0000" channel="TV3">
+    <title lang="en">Kerana Dia Manusia Biasa</title>
+    <desc lang="en">Syakira sebenarnya sedang mengatur strategi untuk menyerang Nurin Aira secara tikam dari belakang. Syakira terlihat Nurin Aira bertemu dengan Dr Haikal.</desc>
+    <credits>
+      <actor>Shukri Yahaya Emma Maembong Afifah</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219070000 +0000" stop="20240219080000 +0000" channel="TV3">
+    <title lang="en">Cukup Derita Itu</title>
+    <desc lang="en">Keesokkan harinya, Ellani terkejut melihat keadaan Mak Ngah Gayah. Semuanya angkara Zarul apabila Ellani mengadu tidak boleh tidur kerana mendengar dengkuran Mak Ngah Gayah yang terlalu kuat.</desc>
+    <credits>
+      <actor>Hisyam Hamid Chacha Maembong Ruhain</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219080000 +0000" stop="20240219080200 +0000" channel="TV3">
+    <title lang="en">Berita Terkini</title>
+    <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219080200 +0000" stop="20240219090000 +0000" channel="TV3">
+    <title lang="en">Ali Baba: Dastaan-e-kabul</title>
+    <desc lang="en">Ali gembira dan tersentuh dengan usaha Puteri menyelamatkan semua kanak-kanak mangsa penyamun iblis.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219090000 +0000" stop="20240219100000 +0000" channel="TV3">
+    <title lang="en">Great Blue Wild</title>
+    <desc lang="en">Palau, sebuah negara pulau kecil di tengah lautan Pasifik barat menempatkan terumbu karang yang terdapat lebih daripada 1,500 spesies ikan.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219100000 +0000" stop="20240219110000 +0000" channel="TV3">
+    <title lang="en">Honey-moon</title>
+    <desc lang="en">Moon cemburu apabila melihat suaminya selalu berjumpa dengan Darina, tanpa mengetahui Darina ialah klien Ilham. Moon merajuk, dia balik ke kampung. Darina masih memujuk Ilham untuk kembali kepadanya.</desc>
+    <credits>
+      <actor>Muhammad Amir Bin Sabaruddin (ben A</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219110000 +0000" stop="20240219120000 +0000" channel="TV3">
+    <title lang="en">Cinta Bersemi Di Wadi Safiyyah</title>
+    <desc lang="en">Dania semakin tertekan melihat Qabil di Wadi Shafiyyah. Dania merayu Hjh Shafiyyah untuk menghubungi Pn Kay. Dania diserang demam. Puan Kay menerima panggilan Hjh Shafiyah mengenai Dania yang demam kuat.</desc>
+    <credits>
+      <actor>Rita Nadira Mohd Ritamurni Muhammad</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219120000 +0000" stop="20240219130000 +0000" channel="TV3">
+    <title lang="en">Buletin Utama</title>
+    <desc lang="en">Berita tempatan dan antarabangsa yang terkini.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219130000 +0000" stop="20240219130200 +0000" channel="TV3">
+    <title lang="en">Mbuzz</title>
+    <desc lang="en">MBUZZ is a 2-minute capsule program that features the latest entertainment and gossip news in Malaysia. MBUZZ consists of additional input to support Melodi that airs on Sundays.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219130200 +0000" stop="20240219140000 +0000" channel="TV3">
+    <title lang="en">Majalah 3</title>
+    <desc lang="en">MAJALAH 3 membawakan keunikan kisah Malaysia dari aspek kemanusian, makanan, teknologi, sukan, alam sekitar dan jatuh bangunnya sebuah negara bernama Malaysia.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219140000 +0000" stop="20240219150000 +0000" channel="TV3">
+    <title lang="en">Menanti Senja</title>
+    <desc lang="en">Pn Khalida muncul bersama dengan Fatimah. En Kamal membantah isterinya langsaikan semua hutang Zaki. Sarah sendiri tidak setuju En Kamal serahkan semua harta kepada Sarah.</desc>
+    <credits>
+      <actor>Johan Arrif Bin As'ari Reyshqa Aqie</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219150000 +0000" stop="20240219163000 +0000" channel="TV3">
+    <title lang="en">Misteri Wan Peah</title>
+    <desc lang="en">Li, Yeh dan Ghani merasa misteri kehilangan ikan masin mereka ada kaitan dengan Wan Peah. Lalu dikejar lembaga tersebut tetapi gagal.</desc>
+    <credits>
+      <actor>Delimawati</actor>
+      <actor>Zee Bmb</actor>
+      <actor>Acap Bmb</actor>
+      <actor>Faiz Bmb Uzair Haqimy Azman (exec P</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219163000 +0000" stop="20240219173000 +0000" channel="TV3">
+    <title lang="en">Cinta Bersemi Di Wadi Safiyyah</title>
+    <desc lang="en">Dania semakin tertekan melihat Qabil di Wadi Shafiyyah. Dania merayu Hjh Shafiyyah untuk menghubungi Pn Kay. Dania diserang demam. Puan Kay menerima panggilan Hjh Shafiyah mengenai Dania yang demam kuat.</desc>
+    <credits>
+      <actor>Rita Nadira Mohd Ritamurni Muhammad</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219173000 +0000" stop="20240219183000 +0000" channel="TV3">
+    <title lang="en">Menanti Senja</title>
+    <desc lang="en">Pn Khalida muncul bersama dengan Fatimah. En Kamal membantah isterinya langsaikan semua hutang Zaki. Sarah sendiri tidak setuju En Kamal serahkan semua harta kepada Sarah.</desc>
+    <credits>
+      <actor>Johan Arrif Bin As'ari Reyshqa Aqie</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219183000 +0000" stop="20240219193000 +0000" channel="TV3">
+    <title lang="en">Tentang Dhia</title>
+    <desc lang="en">Raffi bertemu Dhia dan Dhia kata dia tidak mencintai Raffi dan mahu berkawan sahaja . Raffi merajuk dan melanjutkan pelajaran di luar negara. Selepas tamat pengajian Raffi kata mahu berkahwin dengan Dhia.</desc>
+    <credits>
+      <actor>Nora Danish Ady Putra Tasha Shila</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219193000 +0000" stop="20240219203000 +0000" channel="TV3">
+    <title lang="en">Kerana Dia Manusia Biasa</title>
+    <desc lang="en">Syakira sebenarnya sedang mengatur strategi untuk menyerang Nurin Aira secara tikam dari belakang. Syakira terlihat Nurin Aira bertemu dengan Dr Haikal.</desc>
+    <credits>
+      <actor>Shukri Yahaya Emma Maembong Afifah</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219203000 +0000" stop="20240219210000 +0000" channel="TV3">
+    <title lang="en">Kapsul Surah</title>
+    <desc lang="en">Bacaan SURAH AL-WAQIAH serta terjemahannya.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219210000 +0000" stop="20240219213000 +0000" channel="TV3">
+    <title lang="en">Bacaan Al-Quran</title>
+    <desc lang="en">Bacaan ayat suci Al-Quran surah Al-Fatihah oleh Ustaz Ahmad Tirmizi Hj Ali and Ustaz Ahmad Tarmizi Abdul Rahman.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219213000 +0000" stop="20240219223000 +0000" channel="TV3">
     <title lang="en">Wow Shop</title>
     <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212070000 +0000" stop="20240212090000 +0000" channel="DidikTVKPM">
-    <title lang="en">Sukses Spm</title>
-    <desc lang="en">Perkongsian teknik menjawab soalan Kertas 1 iaitu bahagian A dan B bagi peperiksaan Sijil Pelajaran Malaysia (SPM) 2021.</desc>
+  <programme start="20240219223000 +0000" stop="20240219225000 +0000" channel="TV3">
+    <title lang="en">Bacaan Yasin Tanyalah Ustaz</title>
+    <desc lang="en">Bacaan surah Yasin.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212090000 +0000" stop="20240212093000 +0000" channel="DidikTVKPM">
-    <title lang="en">Tahap II</title>
-    <desc lang="en">Program pendidikan maya melangkaui bilik darjah untuk semua peringkat persekolahan. Dikendalikan bersama guru-guru berpengalaman, pembelajaran kini lebih menyeronokkan bila-bila masa dan di mana jua.</desc>
+  <programme start="20240219225000 +0000" stop="20240219235500 +0000" channel="TV3">
+    <title lang="en">Tanyalah Ustaz</title>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212093000 +0000" stop="20240212103000 +0000" channel="DidikTVKPM">
-    <title lang="en">Menengah Atas</title>
-    <desc lang="en">Program pendidikan maya melangkaui bilik darjah untuk semua peringkat persekolahan. Dikendalikan bersama guru-guru berpengalaman, pembelajaran kini lebih menyeronokkan bila-bila masa dan di mana jua.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212103000 +0000" stop="20240212113000 +0000" channel="DidikTVKPM">
-    <title lang="en">Wow Shop</title>
-    <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212113000 +0000" stop="20240212120000 +0000" channel="DidikTVKPM">
-    <title lang="en">Pentaksiran</title>
-    <desc lang="en">Penilaian sumatif menyediakan maklumat tentang format dan instrumen dalam Ujian Akhir Sesi Akademik bagi setiap mata pelajaran.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212120000 +0000" stop="20240212123000 +0000" channel="DidikTVKPM">
-    <title lang="en">Pbd</title>
-    <desc lang="en">PBD merupakan penilaian berterusan dalam sesi pengajaran dan pembelajaran untuk mendapatkan maklumat tentang perkembangan, kemajuan, kebolehan dan pencapaian murid.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212123000 +0000" stop="20240212143000 +0000" channel="DidikTVKPM">
-    <title lang="en">Sukses Spm</title>
-    <desc lang="en">Perkongsian teknik menjawab soalan Tasawwur Islam (5226) dalam peperiksaan Sijil Pelajaran Malaysia (SPM) 2021 dan penekanan terhadap topik-topik penting Bahagian A.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212143000 +0000" stop="20240212150000 +0000" channel="DidikTVKPM">
-    <title lang="en">Bina Upaya Guru</title>
-    <desc lang="en">Program pembangunan guru memberi maklumat tentang perkembangan kerjaya sebagai guru dan juga hala tuju dalam profesion perguruan.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212160000 +0000" stop="20240213013000 +0000" channel="DidikTVKPM">
-    <title lang="en">Hotfm@ntv7</title>
-    <desc lang="en">Hotfm@ntv7.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+  <programme start="20240219235500 +0000" stop="20240220000000 +0000" channel="TV3">
+    <title lang="en">Berita Terkini</title>
+    <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://aqfadtv.xyz/images/TV3.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -2892,12 +2728,9 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240213150000 +0000" stop="20240214013000 +0000" channel="DidikTVKPM">
-    <title lang="en">Membina Juara</title>
-    <desc lang="en">Perkataan 'Gangsterisme' sering dikaitkan dengan remaja lelaki. Namun kajian menunjukkan semakin banyak kes gangsterisme yang melibatkan remaja daripada pelbagai latar belakang.</desc>
-    <credits>
-      <actor>Sharifah Aleya Exec Producer: Sheah</actor>
-    </credits>
+  <programme start="20240213160000 +0000" stop="20240214013000 +0000" channel="DidikTVKPM">
+    <title lang="en">Hotfm@ntv7</title>
+    <desc lang="en">Hotfm@ntv7.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
     <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
@@ -3731,158 +3564,178 @@
       <value>U</value>
     </rating>
   </programme>
-    <programme start="20240212000000 +0000" stop="20240212020000 +0000" channel="8TV">
-    <title lang="en">Super Star</title>
-    <desc lang="en">Super Star 2021 was held in the form of a singing contest between the red and white teams of singers.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/8TV.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212020000 +0000" stop="20240212040000 +0000" channel="8TV">
-    <title lang="en">Sixty Million Dollar Man</title>
-    <desc lang="en">Shing, the son of Lee, one of Hong Kong popularity billionaire, was sent to study in the United States, However, Shing was so spoiled that he could never concentrate in his study.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/8TV.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212040000 +0000" stop="20240212043000 +0000" channel="8TV">
-    <title lang="en">As You Wish</title>
-    <desc lang="en">'As You Wish 2024' will be chaired by the Hong Kong metaphysician Master Chan Ting Bong together with the programme host, Gary Yap.</desc>
-    <credits>
-      <actor>Yap Choon Kean Scriptwriter :hui Kh</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/8TV.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212043000 +0000" stop="20240212050000 +0000" channel="8TV">
-    <title lang="en">Midday Mandarin News</title>
-    <desc lang="en">This Mandarin news programme delivers stories that have a direct impact on Chinese interest, focusing on issues that concern them.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://aqfadtv.xyz/images/8TV.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212050000 +0000" stop="20240212060000 +0000" channel="8TV">
-    <title lang="en">Cny Fun Together 2024</title>
-    <desc lang="en">The hosts Orange and Rickman will bring the new 'New Year Dragon Car' and a group of New Year ambassadors to interact and play games with the audience and friends at close range.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/8TV.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212060000 +0000" stop="20240212070000 +0000" channel="8TV">
-    <title lang="en">Stylish Man-the Chef 2024 Cny Special</title>
-    <desc lang="en">Rancangan masakan variety game show bersama personaliti jemputan dan tukang masak akan membentuk pasukan dan bertanding dalam beberapa siri permainan yang menghiburkan.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/8TV.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212070000 +0000" stop="20240212090000 +0000" channel="8TV">
-    <title lang="en">Lucky Star</title>
-    <desc lang="en">Cho Lam seorang pengurus filem untuk sekumpulan pelakon muda terkenal dan berbakat dalam meniru watak artis terkenal 'artist lookalike'.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/8TV.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212090000 +0000" stop="20240212105900 +0000" channel="8TV">
-    <title lang="en">The Negotiator</title>
-    <desc lang="en">A variety show is back with Season 5, and continues to bring laughter and fun to the audience. Featuring captains Shen Teng, Jia Ling, Shen Tao, Hua Chenyu and Guan Xiaotong.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/8TV.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212105900 +0000" stop="20240212110000 +0000" channel="8TV">
+  <programme start="20240219013000 +0000" stop="20240219023000 +0000" channel="DidikTVKPM">
     <title lang="en">Wow Shop</title>
-    <desc lang="en">WOWSHOP is an innovative home shopping network that is accessible across television, online and mobile platforms, bringing Malaysians a uniquely visual, interactive and immersive experience.</desc>
+    <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/8TV.png" />
+    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212110000 +0000" stop="20240212120000 +0000" channel="8TV">
-    <title lang="en">Canton Flavor</title>
-    <desc lang="en">Why do Cantonese people all over the world miss the taste of their hometown? Unique food culture and unexpected food knowledge, You can find all in Chinese best food documentary - A bite of Canton.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/8TV.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212120000 +0000" stop="20240212130000 +0000" channel="8TV">
-    <title lang="en">Mandarin News</title>
-    <desc lang="en">This Mandarin news programme delivers stories that have a direct impact on Chinese interest, focusing on issues that concern them.</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://aqfadtv.xyz/images/8TV.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212130000 +0000" stop="20240212150000 +0000" channel="8TV">
-    <title lang="en">Legendary Amazons</title>
-    <desc lang="en">A group of generals in 11th-century China aids their dynasty in their conflict with an adversarial power. But when the family's men all pass away, their widows choose to carry on the battle.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/8TV.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212170000 +0000" stop="20240212173000 +0000" channel="8TV">
-    <title lang="en">Cny Fengshui Special 2024</title>
-    <desc lang="en">In 2024, the eight-dimensional space 'Dragon Walks the World' will host Zheng Ruiyao, Chen Liting, and metaphysics instructors Datuk Zheng Bojian and Grace Zhang Jiaying.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/8TV.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212173000 +0000" stop="20240212230000 +0000" channel="8TV">
-    <title lang="en">Eight FM @ 8TV</title>
-    <desc lang="en">Eight FM @ 8TV.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/8TV.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212230000 +0000" stop="20240213000000 +0000" channel="8TV">
-    <title lang="en">My Sweet Tangerine Lover</title>
-    <desc lang="en">5 pairs of men and women, who have gone through their respective love adventures,come to the festival. What are their final destinations?Will they get their happy ending?</desc>
+  <programme start="20240219023000 +0000" stop="20240219030000 +0000" channel="DidikTVKPM">
+    <title lang="en">Fit &amp; Fab</title>
+    <desc lang="en">Program kecergasan bersama Miely dan Ika berkongsi tips-tips dan panduan senaman khas untuk membakar lemak, meningkatkan ketahanan badan, juga senaman berunsur tarian!</desc>
     <credits>
-      <actor>Jordan Sen Sherlyn Seo Scriptwriter</actor>
+      <actor>Umi Ilyana Kamaludin (miely) (malay</actor>
     </credits>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/8TV.png" />
+    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219030000 +0000" stop="20240219040000 +0000" channel="DidikTVKPM">
+    <title lang="en">Menengah Rendah</title>
+    <desc lang="en">Program pendidikan maya melangkaui bilik darjah untuk semua peringkat persekolahan. Dikendalikan bersama guru-guru berpengalaman, pembelajaran kini lebih menyeronokkan bila-bila masa dan di mana jua.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219040000 +0000" stop="20240219043000 +0000" channel="DidikTVKPM">
+    <title lang="en">Tahap I</title>
+    <desc lang="en">Program pendidikan maya melangkaui bilik darjah untuk semua peringkat persekolahan. Dikendalikan bersama guru-guru berpengalaman, pembelajaran kini lebih menyeronokkan bila-bila masa dan di mana jua.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219043000 +0000" stop="20240219050000 +0000" channel="DidikTVKPM">
+    <title lang="en">Prasekolah</title>
+    <desc lang="en">Program pendidikan maya melangkaui bilik darjah untuk semua peringkat persekolahan. Dikendalikan bersama guru-guru berpengalaman, pembelajaran kini lebih menyeronokkan bila-bila masa dan di mana jua.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219050000 +0000" stop="20240219053000 +0000" channel="DidikTVKPM">
+    <title lang="en">Cergas</title>
+    <desc lang="en">Program yang mengetengahkan senaman kecergasan, regangan dan pemulihan menggunakan alatan kecergasan. Ia diketuai oleh jurulatih dari SSM yang telah dipilih mengikut kriteria daripada KPM.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219053000 +0000" stop="20240219060000 +0000" channel="DidikTVKPM">
+    <title lang="en">Buletin 130</title>
+    <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219060000 +0000" stop="20240219070000 +0000" channel="DidikTVKPM">
+    <title lang="en">Wow Shop</title>
+    <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219070000 +0000" stop="20240219090000 +0000" channel="DidikTVKPM">
+    <title lang="en">Sukses Spm</title>
+    <desc lang="en">MANAHIJ AL-ULUM AL-ISLAMIYAH. Perkongsian teknik menjawab bagi kertas Manahij al-Ulum al- Islamiyah membabitkan soalan Bahagian B bagi peperiksaan Sijil Pelajaran Malaysia (SPM) 2021.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219090000 +0000" stop="20240219093000 +0000" channel="DidikTVKPM">
+    <title lang="en">Tahap II</title>
+    <desc lang="en">Program pendidikan maya melangkaui bilik darjah untuk semua peringkat persekolahan. Dikendalikan bersama guru-guru berpengalaman, pembelajaran kini lebih menyeronokkan bila-bila masa dan di mana jua.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219093000 +0000" stop="20240219103000 +0000" channel="DidikTVKPM">
+    <title lang="en">Menengah Atas</title>
+    <desc lang="en">Program pendidikan maya melangkaui bilik darjah untuk semua peringkat persekolahan. Dikendalikan bersama guru-guru berpengalaman, pembelajaran kini lebih menyeronokkan bila-bila masa dan di mana jua.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219103000 +0000" stop="20240219113000 +0000" channel="DidikTVKPM">
+    <title lang="en">Wow Shop</title>
+    <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219113000 +0000" stop="20240219120000 +0000" channel="DidikTVKPM">
+    <title lang="en">Pentaksiran</title>
+    <desc lang="en">Penilaian sumatif menyediakan maklumat tentang format dan instrumen dalam Ujian Akhir Sesi Akademik bagi setiap mata pelajaran.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219120000 +0000" stop="20240219123000 +0000" channel="DidikTVKPM">
+    <title lang="en">Pbd</title>
+    <desc lang="en">PBD merupakan penilaian berterusan dalam sesi pengajaran dan pembelajaran untuk mendapatkan maklumat tentang perkembangan, kemajuan, kebolehan dan pencapaian murid.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219123000 +0000" stop="20240219143000 +0000" channel="DidikTVKPM">
+    <title lang="en">Sukses Spm</title>
+    <desc lang="en">Perkongsian teknik menjawab soalan penulisan karangan berpandu Bahagian A bagi peperiksaan SPM 2021. Fokus utama slot ini adalah untuk memberi pendedahan kepada murid tentang tiga langkah mudah.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219143000 +0000" stop="20240219150000 +0000" channel="DidikTVKPM">
+    <title lang="en">Bina Upaya Guru</title>
+    <desc lang="en">Program pembangunan guru memberi maklumat tentang perkembangan kerjaya sebagai guru dan juga hala tuju dalam profesion perguruan.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219150000 +0000" stop="20240220013000 +0000" channel="DidikTVKPM">
+    <title lang="en">Membina Juara</title>
+    <desc lang="en">Ibubapa 'Helicopter', terma yang kini seringkali dipakai media massa bagi menggambarkan ibu bapa yang terlalu terbabit dalam kehidupan anak-anak mereka. Ada pula yang langsung tidak ambil tahu.</desc>
+    <credits>
+      <actor>Sharifah Aleya Exec Producer: Sheah</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/DidikTVKPM.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -4010,9 +3863,9 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240213150000 +0000" stop="20240213173000 +0000" channel="8TV">
-    <title lang="en">Keep Running: Yellow River 2</title>
-    <desc lang="en">KEEP RUNNING is a Chinese game-variety show where the hosts and guests complete missions in a landmark to win a race which would provide hints/ items to later help them.</desc>
+  <programme start="20240213170000 +0000" stop="20240213173000 +0000" channel="8TV">
+    <title lang="en">Cny Fengshui Special 2024</title>
+    <desc lang="en">In 2024, the eight-dimensional space 'Dragon Walks the World' will host Zheng Ruiyao, Chen Liting, and metaphysics instructors Datuk Zheng Bojian and Grace Zhang Jiaying.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
     <icon src="https://aqfadtv.xyz/images/8TV.png" />
@@ -4981,279 +4834,158 @@
       <value>U</value>
     </rating>
   </programme>
-    <programme start="20240212000000 +0000" stop="20240212003000 +0000" channel="TV9">
-    <title lang="en">Tanyalah Ustaz</title>
-    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+  <programme start="20240219000000 +0000" stop="20240219020000 +0000" channel="8TV">
+    <title lang="en">Super Star</title>
+    <desc lang="en">Super Star 2021 was held in the form of a singing contest between the red and white teams of singers.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <icon src="https://aqfadtv.xyz/images/8TV.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212003000 +0000" stop="20240212040000 +0000" channel="TV9">
-    <title lang="en">Wow Shop</title>
-    <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
+  <programme start="20240219020000 +0000" stop="20240219040000 +0000" channel="8TV">
+    <title lang="en">Sixty Million Dollar Man</title>
+    <desc lang="en">Shing, the son of Lee, one of Hong Kong popularity billionaire, was sent to study in the United States, However, Shing was so spoiled that he could never concentrate in his study.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <icon src="https://aqfadtv.xyz/images/8TV.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212040000 +0000" stop="20240212050000 +0000" channel="TV9">
-    <title lang="en">My #qurantime 2.0</title>
-    <desc lang="en">Saksikan My#Qurantime 2.0 setiap hari di TV9, membawa misi untuk meningkatkan penghayatan solat, memahami dan menghafal al-Quran serta membina tabiat Infak.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212050000 +0000" stop="20240212060000 +0000" channel="TV9">
-    <title lang="en">Wow Shop</title>
-    <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212060000 +0000" stop="20240212073000 +0000" channel="TV9">
-    <title lang="en">Selamat Datang Anak - Anak Suamiku</title>
-    <desc lang="en">Suami Maya, Johan baru sahaja meninggal dunia. Maya kemudian mendapat tahu yang suaminya itu mempunyai isteri kedua bernama Aida dan dikurniakan dua orang anak.</desc>
+  <programme start="20240219040000 +0000" stop="20240219043000 +0000" channel="8TV">
+    <title lang="en">As You Wish</title>
+    <desc lang="en">'As You Wish 2024' will be chaired by the Hong Kong metaphysician Master Chan Ting Bong together with the programme host, Gary Yap.</desc>
     <credits>
-      <actor>Rita Rudaini Noorkhiriah Fizz Fairu</actor>
+      <actor>Yap Choon Kean Scriptwriter :hui Kh</actor>
     </credits>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <icon src="https://aqfadtv.xyz/images/8TV.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212073000 +0000" stop="20240212080000 +0000" channel="TV9">
-    <title lang="en">Spanar Jaya</title>
-    <desc lang="en">Rancangan ini dibawakan khas untuk tontonan umum.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212080000 +0000" stop="20240212090000 +0000" channel="TV9">
-    <title lang="en">Kerana Terpaksa Aku Relakan</title>
-    <desc lang="en">Tajul Razin yang mula tertarik dengan Indah mengajaknya keluar membeli hadiah untuk hari jadi Datuk Sofiya.</desc>
-    <credits>
-      <actor>Amar Baharin Izreen Azminda Nadia A</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212090000 +0000" stop="20240212093000 +0000" channel="TV9">
-    <title lang="en">Mashimaro</title>
-    <desc lang="en">Mengisahkan kenakalan dan gelagat aneh seekor arnab bernama Mashimaro yang pendiam tetapi gemar mengusik rakan-rakan yang lain.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212093000 +0000" stop="20240212100000 +0000" channel="TV9">
-    <title lang="en">Bima S - 3d Animation</title>
-    <desc lang="en">Aurora sendirian dalam biliknya sambil berbual dengan bapanya melalui walkman. Tiba-tiba kapal angkasa mereka diserang Raksaka Amoeba yang menyerang Bima, Ve, dan Prof T.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212100000 +0000" stop="20240212103000 +0000" channel="TV9">
-    <title lang="en">Transformers Earthspark</title>
-    <desc lang="en">Alex mengajak Robi meneruskan aktiviti tradisi keluarga memburu burung wak wak. Robi yang asyik dengan permainan video menolak pelawaan Alex.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212103000 +0000" stop="20240212110000 +0000" channel="TV9">
-    <title lang="en">Mechamato</title>
-    <desc lang="en">Amato dan rakan-rakannya MechaBot, Mara, Pain dan Deep bergegas memadamkan api. Mereka mengesyaki ada sesuatu berada di belakangnya mencetuskan kebakaran itu.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212110000 +0000" stop="20240212115000 +0000" channel="TV9">
-    <title lang="en">Buletin Tv9</title>
-    <desc lang="en">Laporan terkini berita tempatan dan antarabangsa termasuk berita ekonomi dan sukan.</desc>
+  <programme start="20240219043000 +0000" stop="20240219050000 +0000" channel="8TV">
+    <title lang="en">Midday Mandarin News</title>
+    <desc lang="en">This Mandarin news programme delivers stories that have a direct impact on Chinese interest, focusing on issues that concern them.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <icon src="https://aqfadtv.xyz/images/8TV.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212115000 +0000" stop="20240212123000 +0000" channel="TV9">
-    <title lang="en">Perisik Cinta Tak Diundang</title>
-    <desc lang="en">Medina Mikayla bercita-cita menjadi cef yang hebat dan berjaya. Niyaz Aqasha yang berkelana dan bekerja di luar negara pula baru saja pulang ke tanah air.</desc>
-    <credits>
-      <actor>Nurshiha Binti Mohd Zakir Shiha (m</actor>
-    </credits>
+  <programme start="20240219050000 +0000" stop="20240219060000 +0000" channel="8TV">
+    <title lang="en">Cny Fun Together 2024</title>
+    <desc lang="en">The hosts Orange and Rickman will bring the new 'New Year Dragon Car' and a group of New Year ambassadors to interact and play games with the audience and friends at close range.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <icon src="https://aqfadtv.xyz/images/8TV.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212123000 +0000" stop="20240212143000 +0000" channel="TV9">
-    <title lang="en">Luna Elvira</title>
-    <desc lang="en">Luna Elvira, dari keluarga sederhana. Sejak kecil, Luna menjadi saksi ibunya dimarah dan dipukul bapanya tetapi tidak mampu berbuat apa-apa.</desc>
-    <credits>
-      <actor>Ruhainies Syazwan Dfkl Nadia Aqilah</actor>
-    </credits>
+  <programme start="20240219060000 +0000" stop="20240219070000 +0000" channel="8TV">
+    <title lang="en">Stylish Man-the Chef 2024 Cny Special</title>
+    <desc lang="en">Rancangan masakan variety game show bersama personaliti jemputan dan tukang masak akan membentuk pasukan dan bertanding dalam beberapa siri permainan yang menghiburkan.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <icon src="https://aqfadtv.xyz/images/8TV.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212143000 +0000" stop="20240212150000 +0000" channel="TV9">
-    <title lang="en">2019 Monster Jam Tv Series</title>
-    <desc lang="en">Monster Jam Atlanta memaparkan aksi perlumbaan dan gaya bebas trak raksasa dari Mercedes Benz Stadium, Atlanta, Georgia menyaksikan 14 trak raksasa terlibat dalam pertandingan ini.</desc>
+  <programme start="20240219070000 +0000" stop="20240219090000 +0000" channel="8TV">
+    <title lang="en">Lucky Star</title>
+    <desc lang="en">Cho Lam seorang pengurus filem untuk sekumpulan pelakon muda terkenal dan berbakat dalam meniru watak artis terkenal 'artist lookalike'.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <icon src="https://aqfadtv.xyz/images/8TV.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212160000 +0000" stop="20240212170000 +0000" channel="TV9">
-    <title lang="en">Impak Maksima ( the Series )</title>
-    <desc lang="en">Anita memukul Johari dengan kayu di belakang kepalanya yang membuatkan Johari pengsan dan tidak dapat meneruskan niatnya untuk berlumba dengan Zul.</desc>
-    <credits>
-      <actor>Awal Ashaari</actor>
-      <actor>Fasha Sandha Eizlan Yusoff</actor>
-      <actor>Aida Aris Ashraff Muslim</actor>
-      <actor>Nabila Huda Fizz Fairuz</actor>
-    </credits>
+  <programme start="20240219090000 +0000" stop="20240219105900 +0000" channel="8TV">
+    <title lang="en">The Negotiator</title>
+    <desc lang="en">A variety show is back with Season 5, and continues to bring laughter and fun to the audience. Featuring captains Shen Teng, Jia Ling, Shen Tao, Hua Chenyu and Guan Xiaotong.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <icon src="https://aqfadtv.xyz/images/8TV.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212170000 +0000" stop="20240212174000 +0000" channel="TV9">
-    <title lang="en">Perisik Cinta Tak Diundang</title>
-    <desc lang="en">Medina Mikayla, graduan universiti bidang kulinari yang masih menganggur. Medina bercita-cita menjadi cef yang hebat dan berjaya.</desc>
-    <credits>
-      <actor>Nurshiha Binti Mohd Zakir Shiha (m</actor>
-    </credits>
+  <programme start="20240219105900 +0000" stop="20240219110000 +0000" channel="8TV">
+    <title lang="en">Wow Shop</title>
+    <desc lang="en">WOWSHOP is an innovative home shopping network that is accessible across television, online and mobile platforms, bringing Malaysians a uniquely visual, interactive and immersive experience.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <icon src="https://aqfadtv.xyz/images/8TV.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212174000 +0000" stop="20240212180000 +0000" channel="TV9">
-    <title lang="en">Senario</title>
-    <desc lang="en">Semasa ketiadaan profesor dan rakannya, robot-robot ciptaan professor begitu rancak berbual tentang asal-usul mereka. Mereka pura-pura rajin menjalankan tugas sekembalinya profesor dan rakan beliau.</desc>
+  <programme start="20240219110000 +0000" stop="20240219120000 +0000" channel="8TV">
+    <title lang="en">Canton Flavor</title>
+    <desc lang="en">Why do Cantonese people all over the world miss the taste of their hometown? Unique food culture and unexpected food knowledge, You can find all in Chinese best food documentary - A bite of Canton.</desc>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <icon src="https://aqfadtv.xyz/images/8TV.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240212180000 +0000" stop="20240212193000 +0000" channel="TV9">
-    <title lang="en">Selamat Datang Anak - Anak Suamiku</title>
-    <desc lang="en">Suami Maya, Johan baru sahaja meninggal dunia. Maya kemudian mendapat tahu yang suaminya itu mempunyai isteri kedua bernama Aida dan dikurniakan dua orang anak.</desc>
-    <credits>
-      <actor>Rita Rudaini Noorkhiriah Fizz Fairu</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212193000 +0000" stop="20240212203000 +0000" channel="TV9">
-    <title lang="en">Kool 101 @ TV9</title>
-    <desc lang="en">Kool 101 @ TV9.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212203000 +0000" stop="20240212213000 +0000" channel="TV9">
-    <title lang="en">Kerana Terpaksa Aku Relakan</title>
-    <desc lang="en">Tajul Razin yang mula tertarik dengan Indah mengajaknya keluar membeli hadiah untuk hari jadi Datuk Sofiya.</desc>
-    <credits>
-      <actor>Amar Baharin Izreen Azminda Nadia A</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212213000 +0000" stop="20240212223000 +0000" channel="TV9">
-    <title lang="en">My #qurantime 2.0</title>
-    <desc lang="en">Saksikan My#Qurantime 2.0 setiap hari di TV9, membawa misi untuk meningkatkan penghayatan solat, memahami dan menghafal al-Quran serta membina tabiat Infak.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212223000 +0000" stop="20240212225000 +0000" channel="TV9">
-    <title lang="en">Bacaan Yasin Tanyalah Ustaz</title>
-    <desc lang="en">Bacaan surah Yasin.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212225000 +0000" stop="20240212235500 +0000" channel="TV9">
-    <title lang="en">Tanyalah Ustaz</title>
-    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Others (TV Shows)</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240212235500 +0000" stop="20240213000000 +0000" channel="TV9">
-    <title lang="en">Berita Terkini</title>
-    <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
+  <programme start="20240219120000 +0000" stop="20240219130000 +0000" channel="8TV">
+    <title lang="en">Mandarin News</title>
+    <desc lang="en">This Mandarin news programme delivers stories that have a direct impact on Chinese interest, focusing on issues that concern them.</desc>
     <category lang="en">News</category>
     <category lang="en">Current Affairs</category>
-    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <icon src="https://aqfadtv.xyz/images/8TV.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219130000 +0000" stop="20240219150000 +0000" channel="8TV">
+    <title lang="en">Legendary Amazons</title>
+    <desc lang="en">A group of generals in 11th-century China aids their dynasty in their conflict with an adversarial power. But when the family's men all pass away, their widows choose to carry on the battle.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/8TV.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219150000 +0000" stop="20240219173000 +0000" channel="8TV">
+    <title lang="en">Keep Running: Yellow River 2</title>
+    <desc lang="en">KEEP RUNNING is a Chinese game-variety show where the hosts and guests complete missions in a landmark to win a race which would provide hints/ items to later help them.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/8TV.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219173000 +0000" stop="20240219230000 +0000" channel="8TV">
+    <title lang="en">Eight FM @ 8TV</title>
+    <desc lang="en">Eight FM @ 8TV.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/8TV.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219230000 +0000" stop="20240220000000 +0000" channel="8TV">
+    <title lang="en">My Sweet Tangerine Lover</title>
+    <desc lang="en">5 pairs of men and women, who have gone through their respective love adventures,come to the festival. What are their final destinations?Will they get their happy ending?</desc>
+    <credits>
+      <actor>Jordan Sen Sherlyn Seo Scriptwriter</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/8TV.png" />
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -5414,9 +5146,15 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240213150000 +0000" stop="20240213170000 +0000" channel="TV9">
-    <title lang="en">Wanthong</title>
-    <desc lang="en">Prawai memberitahu Raja bahawa Phlaingam adalah namanya semasa dia masih kecil. Ketika dia berumur sembilan tahun, dia dirotan secara kejam oleh Chang.</desc>
+  <programme start="20240213160000 +0000" stop="20240213170000 +0000" channel="TV9">
+    <title lang="en">Impak Maksima ( the Series )</title>
+    <desc lang="en">Ayie terus menetap di kampung untuk membantu Hanim dan neneknya. Hubungannya dengan Hanim juga semakin baik, sehinggalah Ayie mendapat panggilan mengejut daripada Loyai.</desc>
+    <credits>
+      <actor>Awal Ashaari</actor>
+      <actor>Fasha Sandha Eizlan Yusoff</actor>
+      <actor>Aida Aris Ashraff Muslim</actor>
+      <actor>Nabila Huda Fizz Fairuz</actor>
+    </credits>
     <category lang="en">TV Show/Series</category>
     <category lang="en">Others (TV Shows)</category>
     <icon src="https://aqfadtv.xyz/images/TV9.png" />
@@ -6866,6 +6604,282 @@
     </rating>
   </programme>
   <programme start="20240218235500 +0000" stop="20240219000000 +0000" channel="TV9">
+    <title lang="en">Berita Terkini</title>
+    <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219000000 +0000" stop="20240219003000 +0000" channel="TV9">
+    <title lang="en">Tanyalah Ustaz</title>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219003000 +0000" stop="20240219040000 +0000" channel="TV9">
+    <title lang="en">Wow Shop</title>
+    <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219040000 +0000" stop="20240219050000 +0000" channel="TV9">
+    <title lang="en">My #qurantime 2.0</title>
+    <desc lang="en">Saksikan My#Qurantime 2.0 setiap hari di TV9, membawa misi untuk meningkatkan penghayatan solat, memahami dan menghafal al-Quran serta membina tabiat Infak.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219050000 +0000" stop="20240219060000 +0000" channel="TV9">
+    <title lang="en">Wow Shop</title>
+    <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219060000 +0000" stop="20240219073000 +0000" channel="TV9">
+    <title lang="en">Selamat Datang Anak - Anak Suamiku</title>
+    <desc lang="en">Suami Maya, Johan baru sahaja meninggal dunia. Maya kemudian mendapat tahu yang suaminya itu mempunyai isteri kedua bernama Aida dan dikurniakan dua orang anak.</desc>
+    <credits>
+      <actor>Rita Rudaini Noorkhiriah Fizz Fairu</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219073000 +0000" stop="20240219080000 +0000" channel="TV9">
+    <title lang="en">Spanar Jaya</title>
+    <desc lang="en">Mat Rock dan Khaty tidak puas hati ditegur Lucy. Mereka menyalahkan Pak Selamat kerana terlalu memberi muka dan memanjakan Lucy. Kehadiran Claudia pula menimbulkan pelbagai salah faham.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219080000 +0000" stop="20240219090000 +0000" channel="TV9">
+    <title lang="en">Kerana Terpaksa Aku Relakan</title>
+    <desc lang="en">Indah yang terlalu rindukan ayahnya telah mengambil keputusan untuk pulang ke kampung untuk menemuinya, memohon maaf dan menerangkan tentang perkara sebenarnya yang berlaku.</desc>
+    <credits>
+      <actor>Amar Baharin Izreen Azminda Nadia A</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219090000 +0000" stop="20240219093000 +0000" channel="TV9">
+    <title lang="en">Mashimaro</title>
+    <desc lang="en">Episod ini memaparkan gelagat dan telatah Mashimaro menghalang beruang mengecas telefonnya, menuang air ke atas TV, berebut alat kawalan jauh TV daripada beruang untuk menonton program kegemarannya.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219093000 +0000" stop="20240219100000 +0000" channel="TV9">
+    <title lang="en">Bima S - 3d Animation</title>
+    <desc lang="en">Satria dan kawan-kawan yang sedang transit di Planet gading, tiba-tiba dikejar oleh segerombolan gajah. Kumpulan Gajah menggunakan kuasanya bagi menyekat kapal tersebut.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219100000 +0000" stop="20240219103000 +0000" channel="TV9">
+    <title lang="en">Transformers Earthspark</title>
+    <desc lang="en">Mo dan Robi mula bersekolah di sekolah baru. Kawan-kawan robot mereka terutama Thrash dan Twitch sedih dan kecewa kerana tidak dibenarkan ikut sama. Mereka merajuk dan lari dari rumah.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219103000 +0000" stop="20240219110000 +0000" channel="TV9">
+    <title lang="en">Mechamato</title>
+    <desc lang="en">Semasa berkhemah di dalam hutan, Amato dan rakan-rakan terserempak rumah agam misteri diperbuat daripada blok mainan. Mereka terperangkap di dalamnya.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219110000 +0000" stop="20240219115000 +0000" channel="TV9">
+    <title lang="en">Buletin Tv9</title>
+    <desc lang="en">Laporan terkini berita tempatan dan antarabangsa termasuk berita ekonomi dan sukan.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219115000 +0000" stop="20240219123000 +0000" channel="TV9">
+    <title lang="en">Perisik Cinta Tak Diundang</title>
+    <desc lang="en">Medina Mikayla bercita-cita menjadi cef yang hebat dan berjaya. Niyaz Aqasha yang berkelana dan bekerja di luar negara pula baru saja pulang ke tanah air.</desc>
+    <credits>
+      <actor>Nurshiha Binti Mohd Zakir Shiha (m</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219123000 +0000" stop="20240219143000 +0000" channel="TV9">
+    <title lang="en">Luna Elvira</title>
+    <desc lang="en">Luna Elvira, dari keluarga sederhana. Sejak kecil, Luna menjadi saksi ibunya dimarah dan dipukul bapanya tetapi tidak mampu berbuat apa-apa.</desc>
+    <credits>
+      <actor>Ruhainies Syazwan Dfkl Nadia Aqilah</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219143000 +0000" stop="20240219150000 +0000" channel="TV9">
+    <title lang="en">2019 Monster Jam Tv Series</title>
+    <desc lang="en">Monster Jam Atlanta memaparkan aksi perlumbaan dan gaya bebas trak raksasa dari Mercedes Benz Stadium, Atlanta, Georgia menyaksikan 14 trak raksasa terlibat dalam pertandingan ini.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219150000 +0000" stop="20240219170000 +0000" channel="TV9">
+    <title lang="en">Wanthong</title>
+    <desc lang="en">Phlaingam telah diselamatkan oleh roh hantu Prai. Roh hantu Prai dan roh Kumanthong membawa Wanthong bertemu anaknya di dalam hutan.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219170000 +0000" stop="20240219174000 +0000" channel="TV9">
+    <title lang="en">Perisik Cinta Tak Diundang</title>
+    <desc lang="en">Medina Mikayla, graduan universiti bidang kulinari yang masih menganggur. Medina bercita-cita menjadi cef yang hebat dan berjaya.</desc>
+    <credits>
+      <actor>Nurshiha Binti Mohd Zakir Shiha (m</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219174000 +0000" stop="20240219180000 +0000" channel="TV9">
+    <title lang="en">Senario</title>
+    <desc lang="en">Hos rancangan memperkenalkan beberapa peralatan kesihatan. Berlaku bibit-bibit yang menggelikan hati apabila beberapa jemputan dipanggil untuk mencuba peralatan tersebut di pentas.</desc>
+    <credits>
+      <actor>Abd Wahid Mohamad</actor>
+      <actor>Ahmad Hamdan Illya Buang</actor>
+      <actor>Mazlan Pet Pet Azlee Jaafar</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219180000 +0000" stop="20240219193000 +0000" channel="TV9">
+    <title lang="en">Selamat Datang Anak - Anak Suamiku</title>
+    <desc lang="en">Suami Maya, Johan baru sahaja meninggal dunia. Maya kemudian mendapat tahu yang suaminya itu mempunyai isteri kedua bernama Aida dan dikurniakan dua orang anak.</desc>
+    <credits>
+      <actor>Rita Rudaini Noorkhiriah Fizz Fairu</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219193000 +0000" stop="20240219203000 +0000" channel="TV9">
+    <title lang="en">Kool 101 @ TV9</title>
+    <desc lang="en">Kool 101 @ TV9.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219203000 +0000" stop="20240219213000 +0000" channel="TV9">
+    <title lang="en">Kerana Terpaksa Aku Relakan</title>
+    <desc lang="en">Indah yang terlalu rindukan ayahnya telah mengambil keputusan untuk pulang ke kampung untuk menemuinya, memohon maaf dan menerangkan tentang perkara sebenarnya yang berlaku.</desc>
+    <credits>
+      <actor>Amar Baharin Izreen Azminda Nadia A</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219213000 +0000" stop="20240219223000 +0000" channel="TV9">
+    <title lang="en">My #qurantime 2.0</title>
+    <desc lang="en">Saksikan My#Qurantime 2.0 setiap hari di TV9, membawa misi untuk meningkatkan penghayatan solat, memahami dan menghafal al-Quran serta membina tabiat Infak.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219223000 +0000" stop="20240219225000 +0000" channel="TV9">
+    <title lang="en">Bacaan Yasin Tanyalah Ustaz</title>
+    <desc lang="en">Bacaan surah Yasin.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219225000 +0000" stop="20240219235500 +0000" channel="TV9">
+    <title lang="en">Tanyalah Ustaz</title>
+    <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Others (TV Shows)</category>
+    <icon src="https://aqfadtv.xyz/images/TV9.png" />
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240219235500 +0000" stop="20240220000000 +0000" channel="TV9">
     <title lang="en">Berita Terkini</title>
     <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.</desc>
     <category lang="en">News</category>
